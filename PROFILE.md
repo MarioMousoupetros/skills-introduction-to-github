@@ -1,2 +1,3 @@
-Welcome to my GitHub profile, this is an attempt to cause a merge conflict!
-Let's see what happens. 
+Hi, welcome to my GitHub profile, this was an attempt to cause a merge conflict!
+It worked and was resolved! 
+
